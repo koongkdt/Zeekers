@@ -43,7 +43,7 @@ const z = [
     , Q = "beincrypto"
     , X = "https://x.com/aizots"
     , linkTele = 'https://t.me/AIzotsdotcom'
-    , pumpfun = 'https://pump.fun/coin/AhjCQCpZL3ieBZRKoWRr7gNCwkfQt1bBtrP9QwTgpump'
+    , pumpfun = 'link_ca'
     , dexscreener = 'https://dexscreener.com/'
     , Z = {
         email: "",
